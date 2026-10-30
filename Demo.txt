@@ -1,0 +1,11 @@
+Document Reader
+
+An application that allows you to read PDF files at any time.
+
+This is a PDF app for Android and the best viewer for viewing PDF.
+
+Document Reader
+Full screen immersive reading
+
+Get permission to read system files
+Allows open access to system files, making it easier to view PDF files on your system. Read PDF books and PDF notes on the go with this fast PDF reader.
